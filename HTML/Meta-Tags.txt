@@ -1,0 +1,120 @@
+<!------------------------ TAG TITLE ------------------------------>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Minha Página</title>
+</head>
+<body>
+
+</body>
+</html>
+<!------------------------ TAG TITLE ------------------------------>
+
+
+
+
+
+
+<!------------------------ TAG DESCRIPTION - Utilizada para definir a descrição de uma página ------------------------>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Curso de HTML</title>
+    <meta name="description" content="Este é o curso de HTML onde você vai aprender tudo do básico ao avançado">
+</head>
+<body>
+
+</body>
+</html>
+
+<!------------------------ TAG DESCRIPTION - Utilizada para definir a descrição de uma página ------------------------>
+
+
+
+
+
+<!------ TAG META CHARSET - Utilizada para definir o conjunto de caracteres de uma página - Corrige Acentuação ------->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Página do curso de HTML</title>
+    </head>
+    <body>
+        <h1>Introdução</h1>
+        <p>Este é o curso de HTML</p>
+    </body>
+</html>
+
+<!------ TAG META CHARSET - Utilizada para definir o conjunto de caracteres de uma página - Corrige Acentuação ------->
+
+
+
+
+
+<!---------------------------------- TAG META NAME="ROBOTS" content="noindex" ----------------------------------------->
+<!-- Define se uma página deve ou não ser exibida em um buscador (Ex: Google) -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Comentários em aberto - DevMedia</title>
+         <meta name="robots" content="noindex" />
+    </head>
+    <body>
+        <h1>Relatórios de comentários em aberto</h1>
+        <p>Aqui entra o conteúdo do relatório</p>
+    </body>
+</html>
+<!---------------------------------- TAG META NAME="ROBOTS" content="noindex" ----------------------------------------->
+
+
+
+
+<!---------------------------------- TAG META NAME="ROBOTS" content="nofollow" ---------------------------------------->
+<!-- Especifica ao buscador para não associar link externos a página que está sendo criada (Ex: Links que são postados em comentários) -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Área de comentários</title>
+        <meta name="robots" content="nofollow" />
+    </head>
+    <body>
+        <h1>Área de comentários</h1>
+        <p>Aqui são exibidos todos os comentários</p>
+    </body>
+</html>
+<!---------------------------------- TAG META NAME="ROBOTS" content="nofollow" ---------------------------------------->
+
+
+
+
+
+<!--------------------- TAG META NAME="VIEWPORT" content="width=device-width,initial-scale="1.0"----------------------->
+
+<!--- Responsável pela renderização da página (Ajusta a página de acordo com o tamanho da tela) --->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="description" content="Comentários" />
+        <meta charset="UTF-8">
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Comentários</title>
+    </head>
+    <body>
+        <h1>Comentários</h1>
+        <div>
+            <p>
+                Venha conhecer meu site. É bem legal. <a href="https://www.meusite.com.br">https://www.meusite.com.br</a>
+            </p>
+        </div>
+    </body>
+</html>
+
+<!--------------------- TAG META NAME="VIEWPORT" content="width=device-width,initial-scale="1.0"----------------------->
+
+
+
+
