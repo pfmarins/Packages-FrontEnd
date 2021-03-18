@@ -86,7 +86,7 @@
         </tr>
     </tbody>
 
-    <tfoot> -->0 Define que essa é a área do rodapé da tabela (Exibe o genêro das músicas e o país das bandas lsitadas)
+    <tfoot> --> Define que essa é a área do rodapé da tabela (Exibe o genêro das músicas e o país das bandas lsitadas)
         <tr>
             <td>Rock</td>
             <td>Estados Unidos</td>
